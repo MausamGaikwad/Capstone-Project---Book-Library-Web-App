@@ -22,13 +22,13 @@ Before running this application, make sure you have the following installed:
 6. Start the application using ```npm start```.
 7. Access the application in your web browser at ```http://localhost:3000```.
 ## Usages
-Adding a Book: Navigate to the home page and fill out the form with the title, author, and rating of the book you want to add. Then click the "ADD BOOK" button.
+1. Adding a Book: Navigate to the home page and fill out the form with the title, author, and rating of the book you want to add. Then click the "ADD BOOK" button.
 
-Viewing Books: Upon accessing the home page, you will see a list of books already in the library, including their titles, authors, and ratings.
+2. Viewing Books: Upon accessing the home page, you will see a list of books already in the library, including their titles, authors, and ratings.
 
-Editing a Book: To edit the details of an existing book, find the book in the list and click the "Edit Book" button. This will display a form where you can modify the title, author, and rating of the book. After making your changes, click the "Edit" button to save them.
+3. Editing a Book: To edit the details of an existing book, find the book in the list and click the "Edit Book" button. This will display a form where you can modify the title, author, and rating of the book. After making your changes, click the "Edit" button to save them.
 
-Deleting a Book: To delete a book from the library, find the book in the list and select the "Delete" option. Confirm the deletion, and the book will be removed from the library.
+4. Deleting a Book: To delete a book from the library, find the book in the list and select the "Delete" option. Confirm the deletion, and the book will be removed from the library.
 
 ## Technologies Used
 Express.js: Used to build the web server and handle HTTP requests.
