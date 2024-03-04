@@ -1,7 +1,7 @@
-Book Library Web App
+## Book Library Web App
 This is a simple web application built using Node.js, Express.js, and PostgreSQL. It allows users to manage a library of books by performing CRUD (Create, Read, Update, Delete) operations.
 
-Features
+## Features
 Add Book: Users can add a new book to the library by providing the title, author, and rating.
 View Books: Users can see the list of books stored in the database, along with their titles, authors, and ratings.
 Edit Book: Users can edit the details (title, author, rating) of existing books.
@@ -34,9 +34,9 @@ Express.js: Used to build the web server and handle HTTP requests.
 PostgreSQL: Database management system used to store book information.
 EJS: Embedded JavaScript templating used for generating dynamic HTML content.
 HTML/CSS: Used for the structure and styling of the web pages.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+## Author
 MAUSAM GAIKWAD - GitHub Profile
 Feel free to contribute to this project by submitting pull requests or reporting issues. Enjoy managing your book library! 📚
