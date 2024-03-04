@@ -39,5 +39,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 MAUSAM GAIKWAD - GitHub Profile
+
 --- 
+
 Feel free to contribute to this project by submitting pull requests or reporting issues. Enjoy managing your book library! 📚
