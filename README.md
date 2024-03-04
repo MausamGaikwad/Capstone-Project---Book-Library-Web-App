@@ -13,13 +13,14 @@ Before running this application, make sure you have the following installed:
 * Node.js
 * PostgreSQL
 ## Setup
-Clone this repository to your local machine.
-Install dependencies using npm install.
-Create a PostgreSQL database named books.
-Run the SQL commands provided in schema.sql to create the necessary tables.
-Run the SQL commands provided in seed.sql to populate the database with sample data.
-Start the application using npm start.
-Access the application in your web browser at http://localhost:3000.
+1. Clone this repository to your local machine using the following command:
+   git clone <repository_URL>
+2. Install dependencies using npm install.
+3. Create a PostgreSQL database named books.
+4. Run the SQL commands provided in schema.sql to create the necessary tables.
+5. Run the SQL commands provided in seed.sql to populate the database with sample data.
+6. Start the application using npm start.
+7. Access the application in your web browser at http://localhost:3000.
 ## Usages
 Adding a Book: Navigate to the home page and fill out the form with the title, author, and rating of the book you want to add. Then click the "ADD BOOK" button.
 
