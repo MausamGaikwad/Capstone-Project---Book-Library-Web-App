@@ -2,11 +2,11 @@
 This is a simple web application built using Node.js, Express.js, and PostgreSQL. It allows users to manage a library of books by performing CRUD (Create, Read, Update, Delete) operations.
 
 ## Features
-Add Book: Users can add a new book to the library by providing the title, author, and rating.
-View Books: Users can see the list of books stored in the database, along with their titles, authors, and ratings.
-Edit Book: Users can edit the details (title, author, rating) of existing books.
-Delete Book: Users can delete books from the library.
-Reading History: The application also includes functionality for tracking reading history, although it's not currently implemented in the user interface.
+* Add Book: Users can add a new book to the library by providing the title, author, and rating.
+* View Books: Users can see the list of books stored in the database, along with their titles, authors, and ratings.
+* Edit Book: Users can edit the details (title, author, rating) of existing books.
+* Delete Book: Users can delete books from the library.
+* Reading History: The application also includes functionality for tracking reading history, although it's not currently implemented in the user interface.
 ## Prerequisites
 Before running this application, make sure you have the following installed:
 
