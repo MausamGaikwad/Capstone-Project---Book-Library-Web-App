@@ -10,8 +10,8 @@ This is a simple web application built using Node.js, Express.js, and PostgreSQL
 ## Prerequisites
 Before running this application, make sure you have the following installed:
 
-Node.js
-PostgreSQL
+* Node.js
+* PostgreSQL
 ## Setup
 Clone this repository to your local machine.
 Install dependencies using npm install.
