@@ -31,10 +31,11 @@ Before running this application, make sure you have the following installed:
 4. Deleting a Book: To delete a book from the library, find the book in the list and select the "Delete" option. Confirm the deletion, and the book will be removed from the library.
 
 ## Technologies Used
-Express.js: Used to build the web server and handle HTTP requests.
-PostgreSQL: Database management system used to store book information.
-EJS: Embedded JavaScript templating used for generating dynamic HTML content.
-HTML/CSS: Used for the structure and styling of the web pages.
+* Express.js: Used to build the web server and handle HTTP requests.
+* PostgreSQL: Database management system used to store book information.
+* EJS: Embedded JavaScript templating used for generating dynamic HTML content.
+* HTML/CSS: Used for the structure and styling of the web pages.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
