@@ -1,4 +1,4 @@
-## Book Library Web App
+# Book Library Web App
 This is a simple web application built using Node.js, Express.js, and PostgreSQL. It allows users to manage a library of books by performing CRUD (Create, Read, Update, Delete) operations.
 
 ## Features
